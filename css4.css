@@ -1,0 +1,176 @@
+.Header1{
+    margin: 0;
+    border: none black 5px;
+    padding: 150px;
+    height: 300px;
+    background-image: url("cali.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body{
+    margin:0;
+}
+.name{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+.header{
+    border: solid black 5px;
+    background-color: beige;
+    width: 300px;
+    height: 60px;
+    padding: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.quote{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: beige;
+    height: 130px;
+    width: 100%;
+}
+label.logo{
+    font-size: 50px;
+    padding: 0 100;
+    line-height: 80px;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    ;
+}
+ul li{
+    list-style-type: none;
+    font-size: 20px;
+    padding: 0 105 ;
+    display:inline-block;
+    text-align: center;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li a:hover{
+    background-color: black;
+    color:white;
+    transition: .4s;
+    padding: 5px; /* https://www.w3schools.com/howto/howto_css_transition_hover.asp*/
+}
+.about{
+   background-color: beige;
+   height:630px;
+}
+.heading{
+    margin: 70px;
+    float: right;
+}
+.paragraph{
+    float: right;
+    font-size: 18px;
+    color:grey;
+    width: 650px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.image{
+    padding: 40px 10px 75px 250px;
+
+}
+.picture{
+    border: 5px solid black;
+}
+
+.end{
+    background-color:  #303841;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 130px;
+    padding: 50px;
+    text-align: center;
+}  
+
+.row{
+    margin: 0;
+    width: 100%;
+    font-size: 18px;
+    color: grey;
+    padding: 0px 10px 10px 0px;
+}
+.c1{
+    padding: 0px 5px;
+}
+.c3{
+    padding: 0px 25px 25px;
+}
+.wedding1{
+    border: solid black 5px;
+}
+.boba{
+    border: solid black 5px;
+}
+.projects{
+    background-color: white;
+    height:500;
+ }
+ .heading1{
+     margin: 70px;
+     float: right;
+ }
+ .projpara{
+     float: right;
+     font-size: 18px;
+     color:grey;
+     width: 650px;
+ }
+ 
+ h1{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .magazine{
+     padding: 40px 10px 100px 250px;
+ 
+ }
+ .mag{
+     border: 5px solid black;
+     float: left;
+ }
+ .project2{
+    background-color: #5aa2d8;
+    height:500;
+ }
+ .heading2{
+     margin: 70px;
+     float: right;
+ }
+ .SkipDescription{
+     float: right;
+     font-size: 18px;
+     color:white;
+     width: 650px;
+ }
+ 
+ h1{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .Skip{
+     padding: 40px 10px 100px 250px;
+ 
+ }
+ .Ellis{
+     border: 5px solid black;
+     float: left;
+ }
+ .canva2{
+    color:black;
+ }
+ .canva2:hover{
+    color:#444444;
+ }

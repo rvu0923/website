@@ -1,0 +1,68 @@
+nav{
+    background-color: beige;
+    height: 130px;
+    width: 100%;
+}
+label.logo{
+    font-size: 50px;
+    padding: 0 100;
+    line-height: 80px;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul li{
+    list-style-type: none;
+    font-size: 20px;
+    padding: 0 105 ;
+    display:inline-block;
+    text-align: center;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li a:hover{
+    background-color: black;
+    color:white;
+    transition: .4s;
+    padding: 5px; /* https://www.w3schools.com/howto/howto_css_transition_hover.asp*/
+}
+body{
+    margin:0;
+}
+.resume{
+    margin: 20px;
+    text-align: center;
+}
+.background{
+    margin: 0;
+    background-image: url("bridge.jpeg");
+    border: none black 5px;
+    padding: 150px;
+    height: 150px;
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box{
+    color: white;
+    background-color: black;
+    border: solid white 5px;
+    width: 250px;
+    text-align: center;
+}
+.end{
+    background-color:  #303841;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 125px;
+    padding: 50px;
+    text-align: center;
+}  
+.resume{
+    border: solid black 5px;
+    margin: 100px 100px 100px 300px;
+}
